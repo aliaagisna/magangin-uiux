@@ -30,4 +30,4 @@ Desain high-fidelity dibuat dengan memperhatikan:
 - GitHub (dokumentasi)
 
 ##  Link Figma
-[[Masukkan link Figma di sini]](https://www.figma.com/design/7XCavNnadxO53m0qeSEQuY/Pra-magang?node-id=380-3&t=LgxXmX5Aetar9eju-1)
+[[LINK FIGMA]](https://www.figma.com/design/7XCavNnadxO53m0qeSEQuY/Pra-magang?node-id=380-3&t=LgxXmX5Aetar9eju-1)
